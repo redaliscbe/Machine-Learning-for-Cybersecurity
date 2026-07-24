@@ -174,7 +174,6 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 * [Detecting Reverse Shell with Machine Learning](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
 * [Obfuscated Command Line Detection Using Machine Learning](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
-* [Обнаружение веб-атак с помощью рекуррентных нейронных сетей (RUS)](https://habr.com/ru/company/pt/blog/439202/)
 * [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
 * [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
 * [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
@@ -211,7 +210,19 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 9.		Implement a text classification algorithm (e.g., Naive Bayes or SVM) to classify emails as spam or not spam. 
 10.		Use k-means to classify network events into normal and abnormal categories
 11.		Develop a decision tree classifier to detect malicious data injections within databases.
-12.		Develop a model that uses context (e.g., timestamp, source IP, and event type) to detect malicious events within wireless sensor networks. 
+12.		Develop a model that uses context (e.g., timestamp, source IP, and event type) to detect malicious events within wireless sensor networks.
+    
+## Cyber Security Excellence
+
+
+
+
+
+## Cyber Security Certificate
+
+
+
+
 
 ## License
 
